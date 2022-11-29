@@ -1,64 +1,27 @@
-<!-- <p align='center'>
-<img src="https://i.imgur.com/2H8ruiJ.gif">&nbsp;&nbsp;
-</p> -->
-
-<h1 align="center"> Hey there 👋 </h1>
-
+# 💫 About Me:
 <p align="center">Currently, I'm in seventh term of Electronics and Telecommunication at Government College of Engineering and Research Avasari. I love solving problems using programming and I'm very interested in Software Engineering, Web development, Data Structures and Algorithms. I'm very proactive and I love teamwork. Be free to contact me :) </p>
 
-<br>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/DADDYCOOL#0697) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naresh_choudhary_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Naresh Choudhary) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@snipercool4169) 
 
-<h2 align="center"> Languages and Tools: </h2>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nareshchoudhary02&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nareshchoudhary02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-<p align="center">
-  <img width="44px" src="[https://i.imgur.com/BgjSjn9.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.subpng.com%2Fpng-95q2r6%2F&psig=AOvVaw3Uc4d0ZE5OYxaiKN4SNvLO&ust=1669628823007000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjrnJmKzvsCFQAAAAAdAAAAABAE)">
-<!--   <img width="45px" src="https://i.imgur.com/o4FSeZ6.png"> -->
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/nodejs/nodejs-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/git/git-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Nareshchoudhary02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/cool-naresh) 
 
-<h2 align="center">Get in touch:</h2>
-
-
-<p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/naresh-choudhary-0009b3212/">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-njkal&psig=AOvVaw0GgUJ2RyeWcCg9jkQ4xuLv&ust=1669629101264000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjyj52LzvsCFQAAAAAdAAAAABAJ" alt="Linkedin Badge">
-</a>
-<a target="_blank" href="mailto:nareshnc82643@gmail.com">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fgmail-logo&psig=AOvVaw1vy1Wouimc7yY3TtjcCQVl&ust=1669629254851000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLi9xeaLzvsCFQAAAAAdAAAAABAE" alt="Email Badge">
-</a>
-<a target="_blank" href="https://discord.com/channels/DADDYCOOL#0697">
-<img src="[https://img.shields.io/badge/-lucassbivar_-black?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/sidbelbase/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-computer-icons-discord-logo-judgment-apocalypse-su-3343485%2F&psig=AOvVaw0Q44mK2vmRk_tsr6VjrjBN&ust=1669629663758000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjYtamNzvsCFQAAAAAdAAAAABAE)" alt="Discord Badge">
-</a>
-<!-- <a target="_blank" href="https://github.com/lucasbivar/lucasbivar/blob/main/lucas_cv_EN.pdf">
-<img src="https://img.shields.io/badge/-RESUME (EN)-black?style=for-the-badge&link=https://github.com/lucasbivar/lucasbivar/blob/main/lucas_cv_EN.pdf" alt="Resume Badge">
-</a>
-<a target="_blank" href="https://github.com/lucasbivar/lucasbivar/blob/main/lucas_cv_PT.pdf">
-<img src="https://img.shields.io/badge/-RESUME (PT)-black?style=for-the-badge&link=https://github.com/lucasbivar/lucasbivar/blob/main/lucas_cv_PT.pdf" alt="Resume Badge">
-</a> -->
   
-</p>
-
-<br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="#" alt="Myself"/>
-</p>
-
-<!-- <table>
-    <tr>
-        <td><img width="463px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbivar&exclude_repo=ia-ifsp-course,machine-learning,Introducao-a-Ciencia-de-Dados,statistics-applied-to-computing,2nd-Imersao-Dados&hide=html&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
-        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api/?username=lucasbivar&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/></td>
-    </tr>   
-</table> -->
-</center>  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
