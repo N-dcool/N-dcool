@@ -1,9 +1,9 @@
 # 💫 About Me:
 <p align="center">Currently, I'm in seventh term of Electronics and Telecommunication at Government College of Engineering and Research Avasari. I love solving problems using programming and I'm very interested in Software Engineering, Web development, Data Structures and Algorithms. I'm very proactive and I love teamwork. Be free to contact me :) </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=Nareshchoudhary02&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=Nareshchoudhary02&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/DADDYCOOL#0697) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naresh_choudhary_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naresh-choudhary-0009b3212) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@snipercool4169) 
 
