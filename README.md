@@ -1,5 +1,5 @@
 # <h1 align="center">💫 Hey there 👋</h1>
-<p align="center">Currently, I'm in seventh term of Electronics and Telecommunication at Government College of Engineering and Research Avasari. I love solving problems using programming and I'm very interested in Software Engineering, Web development, Data Structures and Algorithms. I'm very proactive and I love teamwork. Be free to contact me :) </p>
+<p align="center">Currently, I'm in eight semister of Electronics and Telecommunication at <b>Government College of Engineering and Research Avasari</u></b>. I love solving problems using programming and I'm very interested in <b>Software Engineering, Web development, Data Structures and Algorithms</b>. I'm very proactive and I love teamwork. Be free to contact me 🤍:) </p>
 
 [![](https://visitcount.itsvg.in/api?id=Nareshchoudhary02&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
