@@ -34,7 +34,8 @@
 </div>
 
 # <h1 align="center">📊 GitHub Stats:</h1>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nareshchoudhary02&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nareshchoudhary02&theme=dark&hide_border=false" />
   
 <!--  ![](https://github-readme-stats.vercel.app/api?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Nareshchoudhary02&theme=dark&hide_border=false)<br/> -->
