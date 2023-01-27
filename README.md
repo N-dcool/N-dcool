@@ -1,6 +1,3 @@
-# <h1 align="center">💫 Hey there 👋</h1>
-<p align="center">Currently, I'm in eight semister of Electronics and Telecommunication at <b>Government College of Engineering and Research Avasari</u></b>. I love solving problems using programming and I'm very interested in <b>Software Engineering, Web development, Data Structures and Algorithms</b>. I'm very proactive and I love teamwork. Be free to contact me 🤍:) </p>
-
 <div align=center>
   <img src="./github-header-image (1).png" width=900/>
   <br /> <br />
@@ -36,6 +33,13 @@
   [![](https://visitcount.itsvg.in/api?id=Nareshchoudhary02&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
+# <h1 align="center">📊 GitHub Stats:</h1>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nareshchoudhary02&theme=dark&hide_border=false" />
+  
+<!--  ![](https://github-readme-stats.vercel.app/api?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=Nareshchoudhary02&theme=dark&hide_border=false)<br/> -->
+
+
 <h2 align=center>📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
@@ -45,15 +49,14 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-
+<!-- 
   ## <h1 align="center">💰 You can help me by Donating</h1>
   <h3 align="center">
   
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/coolnaresh)
   
   </h3>
-
-<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/581807321047498780)](https://discord.com/users/581807321047498780) -->
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in )
+ <img src="https://github-readme-stats.vercel.app/api?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />&nbsp;&nbsp;&nbsp;&nbsp; 
+  -->
