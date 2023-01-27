@@ -1,28 +1,58 @@
 # <h1 align="center">💫 Hey there 👋</h1>
 <p align="center">Currently, I'm in eight semister of Electronics and Telecommunication at <b>Government College of Engineering and Research Avasari</u></b>. I love solving problems using programming and I'm very interested in <b>Software Engineering, Web development, Data Structures and Algorithms</b>. I'm very proactive and I love teamwork. Be free to contact me 🤍:) </p>
 
-[![](https://visitcount.itsvg.in/api?id=Nareshchoudhary02&icon=0&color=0)](https://visitcount.itsvg.in)
----
-## <h1 align="center">🌐 Socials:</h1>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/581807321047498780) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naresh_choudhary_02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naresh-choudhary-0009b3212) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@snipercool4169) 
+<div align=center>
+  <img src="./github-header-image (1).png" width=900/>
+  <br /> <br />
+  
+  <img src="./div-pins.png" width=800/>
+  <br /><br />
+  
+  <a href="https://github.com/Nareshchoudhary02/Dapp_GoogleKeepNotes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nareshchoudhary02&repo=Dapp_GoogleKeepNotes&border_radius=5&theme=nord&hide_border=true"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Nareshchoudhary02/YouTube-Search-Clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nareshchoudhary02&repo=YouTube-Search-Clone&border_radius=5&theme=nord&hide_border=true"></a>
+  
+  <br />
+  
+  <a href="https://github.com/Nareshchoudhary02/Leetcode-Questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nareshchoudhary02&repo=Leetcode-Questions&border_radius=5&theme=nord&hide_border=true"></a>
+  <br />
+  
+  <img src="./contact-div.png" width=800/>
+  <br /><br />
+  
+  <a href="https://discord.com/users/581807321047498780"><img src="https://lanyard-profile-readme.vercel.app/api/581807321047498780?borderRadius=5px&bg=2E3440&theme=dark&idleMessage=Currently learning Blockchain Development"></a>
+  <br /><br />
+  <a href="https://leetcode.com/Naresh_Choudhary/"><img src="https://i.ibb.co/4M1psGp/leetcode-2.png" width=55/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:nareshnc82643@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width=52/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/naresh-choudhary-0009b3212/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width=45 /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/31vmadujmxyixevesbudfp6mxs3y"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width=47/></a>
+  <br /><br /><br/>
 
 
-# <h1 align="center">💻 Tech Stack</h1>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# <h1 align="center">📊 GitHub Stats:</h1>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
-![](https://github-readme-stats.vercel.app/api?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nareshchoudhary02&theme=dark&hide_border=false)<br/>
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nareshchoudhary02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  [![](https://visitcount.itsvg.in/api?id=Nareshchoudhary02&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+<h2 align=center>📊 Weekly Development Breakdown</h2>
+
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
 
   ## <h1 align="center">💰 You can help me by Donating</h1>
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/coolnaresh) 
+  <h3 align="center">
+  
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/coolnaresh)
+  
+  </h3>
 
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/581807321047498780)](https://discord.com/users/581807321047498780) -->
   
