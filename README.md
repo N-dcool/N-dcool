@@ -24,5 +24,6 @@
   ## <h1 align="center">💰 You can help me by Donating</h1>
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/coolnaresh) 
 
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/581807321047498780)](https://discord.com/users/581807321047498780) -->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
