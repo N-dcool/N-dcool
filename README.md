@@ -20,7 +20,7 @@
   <img src="./contact-div.png" width=800/>
   <br /><br />
   
-  <a href="https://discord.com/users/581807321047498780"><img src="https://lanyard-profile-readme.vercel.app/api/581807321047498780?borderRadius=5px&bg=2E3440&theme=dark&idleMessage=Currently learning Blockchain Development"></a>
+  <a href="https://discord.com/users/581807321047498780"><img src="https://lanyard-profile-readme.vercel.app/api/581807321047498780?borderRadius=5px&bg=2E3440&theme=dark&idleMessage=Currently%20learning%20Blockchain%20Development"></a>
   <br /><br />
   <a href="https://leetcode.com/Naresh_Choudhary/"><img src="https://i.ibb.co/4M1psGp/leetcode-2.png" width=55/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
