@@ -43,7 +43,7 @@
 <h2 align=center>📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-
+- [My Terminal](https://nareshchoudhary02.github.io/My-Terminal/)
 ```text
 No activity tracked
 ```
