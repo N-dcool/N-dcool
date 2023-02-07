@@ -5,13 +5,13 @@
   <img src="./div-pins.png" width=800/>
   <br /><br />
   
-  <a href="https://github.com/Nareshchoudhary02/Leetcode-Questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nareshchoudhary02&repo=Leetcode-Questions&border_radius=5&theme=nord&hide_border=true"></a>
+  <a href="https://github.com/n-dcool/Leetcode-Questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=n-dcool&repo=Leetcode-Questions&border_radius=5&theme=nord&hide_border=true"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Nareshchoudhary02/YouTube-Search-Clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nareshchoudhary02&repo=YouTube-Search-Clone&border_radius=5&theme=nord&hide_border=true"></a>
+  <a href="https://github.com/n-dcool/YouTube-Search-Clone"><img src="https://github-readme-stats.vercel.app/api/pin/?username=n-dcool&repo=YouTube-Search-Clone&border_radius=5&theme=nord&hide_border=true"></a>
   
   <br />
   
-  <a href="https://github.com/Nareshchoudhary02/Dapp_GoogleKeepNotes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Nareshchoudhary02&repo=Dapp_GoogleKeepNotes&border_radius=5&theme=nord&hide_border=true"></a>
+  <a href="https://github.com/n-dcool/Dapp_GoogleKeepNotes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=n-dcool&repo=Dapp_GoogleKeepNotes&border_radius=5&theme=nord&hide_border=true"></a>
   
   <br />
   
@@ -35,7 +35,7 @@
 </div>
 
 # <h1 align="center">📊 GitHub Stats:</h1>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nareshchoudhary02&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-dcool&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=n-dcool&theme=dark&hide_border=false" />
   
 <!--  ![](https://github-readme-stats.vercel.app/api?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Nareshchoudhary02&theme=dark&hide_border=false)<br/> -->
@@ -44,7 +44,7 @@
 <h2 align=center>📊 Weekly Development Breakdown</h2>
 
 <!--START_SECTION:waka-->
-- [My Terminal](https://nareshchoudhary02.github.io/My-Terminal/)
+- [My Terminal](https://n-dcool.github.io/My-Terminal/)
 ```text
 No activity tracked
 ```
