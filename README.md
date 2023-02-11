@@ -1,8 +1,35 @@
-<div align=center>
-  <img src="./github-header-image (1).png" width=900/>
-  <br /> <br />
+<a href="https://discord.com/users/581807321047498780"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/581807321047498780?bg=00000000&idleMessage=Currently%20learning%20Blockchain%20Development" /></a>
+
+<a href="https://n-dcool.github.io/My-Terminal/"><img src="./assets/logo.png" height="110" /></a>
+<details>
+  <summary><b>📋 About</b></summary>
+
+  I like making things that stay on the Internet. \
+  <i>Full Stack Developer.</i> \
+  You can probably find more about on my website.
+
+  [🌐 website](https://n-dcool.github.io/My-Terminal/ 'MY WEBSITEEEEEEEEEEEEEEEEE') \
+  [📧 email](mailto:nareshnc82643@gmail.com 'MY EMAILLLLLLLLLL')
+</details>
+
+<details>
+  <summary><b>📊 Some stats of me</b></summary>
   
-  <img src="./div-pins.png" width=800/>
+![My github stats!](https://github-readme-stats.vercel.app/api?username=n-dcool&show_icons=true&custom_title=My%20Github%20Stats:&line_height=33&include_all_commits=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true#gh-dark-mode-only) \
+![My top langauges](https://github-readme-stats.vercel.app/api/top-langs?username=n-dcool&show_icons=true&layout=compact&card_width=645&bg_color=00000000&title_color=00CCAA&text_color=dddddd&hide_border=true&hide_title=true#gh-dark-mode-only)
+</details>
+
+<details>
+  <summary><b>🚀 Deployments</b></summary>
+
+  [1️⃣ My Terminal](https://n-dcool.github.io/My-Terminal 'CLI Terminal') \
+  [2️⃣ RESTFull-API](https://wiki-api-git-main-n-dcool.vercel.app/articles)
+  [Will-Update-Soon]
+</details>  
+
+<div align=center>
+
+<img src="./assets/div-pins.png" width=800/>
   <br /><br />
   
   <a href="https://github.com/n-dcool/Leetcode-Questions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=n-dcool&repo=Leetcode-Questions&border_radius=5&theme=nord&hide_border=true"></a>
@@ -14,12 +41,10 @@
   <a href="https://github.com/n-dcool/Dapp_GoogleKeepNotes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=n-dcool&repo=Dapp_GoogleKeepNotes&border_radius=5&theme=nord&hide_border=true"></a>
   
   <br />
-  
-  <img src="./contact-div.png" width=800/>
+
+<img src="./assets/contact-div.png" width=800/>
   <br /><br />
-  
-  <a href="https://discord.com/users/581807321047498780"><img src="https://lanyard-profile-readme.vercel.app/api/581807321047498780?borderRadius=5px&bg=2E3440&theme=dark&idleMessage=Currently%20learning%20Blockchain%20Development"></a>
-  <br /><br />
+  <br />
   <a href="https://leetcode.com/Naresh_Choudhary/"><img src="https://i.ibb.co/4M1psGp/leetcode-2.png" width=55/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:nareshnc82643@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width=52/></a>
@@ -29,25 +54,13 @@
   <a href="https://open.spotify.com/user/31vmadujmxyixevesbudfp6mxs3y"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width=47/></a>
   <br /><br /><br/>
 
+[![](https://visitcount.itsvg.in/api?id=Nareshchoudhary02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-  [![](https://visitcount.itsvg.in/api?id=Nareshchoudhary02&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
-# <h1 align="center">📊 GitHub Stats:</h1>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-dcool&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=n-dcool&theme=dark&hide_border=false" />
-  
+
 <!--  ![](https://github-readme-stats.vercel.app/api?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Nareshchoudhary02&theme=dark&hide_border=false)<br/> -->
-
-
-<h2 align=center>📊 Weekly Development Breakdown</h2>
-
-<!--START_SECTION:waka-->
-- [My Terminal](https://n-dcool.github.io/My-Terminal/)
-```text
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
 <!-- 
