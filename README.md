@@ -23,7 +23,7 @@
   <summary><b>🚀 Deployments</b></summary>
 
   [1️⃣ My Terminal](https://n-dcool.github.io/My-Terminal 'CLI Terminal') \
-  [2️⃣ RESTFull-API](https://wiki-api-git-main-n-dcool.vercel.app/articles)
+  [2️⃣ RESTFull-API](https://wiki-api-git-main-n-dcool.vercel.app/articles) \
   [Will-Update-Soon]
 </details>  
 
