@@ -39,6 +39,8 @@
   <br />
   
   <a href="https://github.com/n-dcool/Dapp_GoogleKeepNotes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=n-dcool&repo=Dapp_GoogleKeepNotes&border_radius=5&theme=nord&hide_border=true"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/n-dcool/NFT-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=n-dcool&repo=NFT-Project&border_radius=5&theme=nord&hide_border=true"></a>
   
   <br />
 
