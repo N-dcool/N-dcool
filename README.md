@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=Nareshchoudhary02&icon=0&color=0)](https://visitcount.itsvg.in) &nbsp;&nbsp;&nbsp;&nbsp;
-[![wakatime](https://wakatime.com/badge/user/52d8494f-3553-46fe-b06a-85fc70729f16.svg)](https://wakatime.com/@52d8494f-3553-46fe-b06a-85fc70729f16)
 <a href="https://discord.com/users/581807321047498780"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/581807321047498780?&idleMessage=Currently%20learning%20Blockchain%20Development" /></a>
 
 <a href="https://n-dcool.github.io/My-Terminal/"><img src="./assets/logo.png" height="150" /></a>
@@ -58,6 +56,8 @@
   <a href="https://open.spotify.com/user/31vmadujmxyixevesbudfp6mxs3y"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width=47/></a>
   <br /><br /><br/>
 
+  [![](https://visitcount.itsvg.in/api?id=Nareshchoudhary02&icon=0&color=0)](https://visitcount.itsvg.in) &nbsp;&nbsp;&nbsp;&nbsp;
+[![wakatime](https://wakatime.com/badge/user/52d8494f-3553-46fe-b06a-85fc70729f16.svg)](https://wakatime.com/@52d8494f-3553-46fe-b06a-85fc70729f16)
 
 </div>
 
