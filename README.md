@@ -64,8 +64,8 @@
 </div>
 
 
-<!--  ![](https://github-readme-stats.vercel.app/api?username=Nareshchoudhary02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
- ![](https://github-readme-streak-stats.herokuapp.com/?user=Nareshchoudhary02&theme=dark&hide_border=false)<br/> -->
+<!--  ![](https://github-readme-stats.vercel.app/api?username=n-dcool&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=n-dcool&theme=dark&hide_border=false)<br/> -->
 
 <!--END_SECTION:waka-->
 <!-- 
