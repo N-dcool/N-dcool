@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/581807321047498780"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/581807321047498780?&idleMessage=Currently%20learning%20Blockchain%20Development" /></a>
+<a href="https://discord.com/users/581807321047498780"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/581807321047498780?&idleMessage=Currently%20learning%20DSA" /></a>
 
 <a href="https://n-dcool.github.io/My-Terminal/"><img src="./assets/logo.png" height="150" /></a>
 <details>
